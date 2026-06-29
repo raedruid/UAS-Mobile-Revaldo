@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NusantaraWild</string>
+    <string name="favorit">Favorit</string>
+    <string name="cari">Cari spesies…</string>
+    <string name="profil">Profil</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="tampilan_gelap">Tampilan Gelap</string>
+    <string name="aktifkan_dark">Aktifkan dark mode</string>
+    <string name="bahasa">Bahasa</string>
+    <string name="pilih_bahasa">Pilih bahasa tampilan</string>
+    <string name="mahasiswa_aktif">🎓  Mahasiswa Aktif</string>
+    <string name="kredit">NusantaraWild © 2024</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="asal">Asal</string>
+    <string name="sebaran">Sebaran</string>
+    <string name="status">Status</string>
+    <string name="tambah_favorit">Ditambahkan ke favorit ♡</string>
+    <string name="hapus_favorit">Dihapus dari favorit</string>
+    <string name="mulai">Mulai Jelajahi →</string>
+    <string name="memuat">Memuat data…</string>
+    <string name="foto_profil">Foto Profil</string>
+    <string name="informasi">Informasi</string>
+    <string name="ikon_nama">Ikon Nama</string>
+    <string name="ikon_dark_mode">Ikon Dark Mode</string>
+    <string name="aktifkan_dark_mode">Aktifkan dark mode</string>
+    <string name="ikon_bahasa">Ikon Bahasa</string>
+    <string name="pilih_bahasa_tampilan">Pilih bahasa tampilan</string>
+    <string name="ikon_nim">Ikon NIM</string>
+    <string name="toggle_favorit">Toggle Favorit</string>
+    <string name="ensiklopedia_spesies_endemik_indonesia">Ensiklopedia Spesies Endemik Indonesia</string>
+    <string name="memuat_data">Memuat data…</string>
+    <string name="hewan">Hewan</string>
+    <string name="tumbuhan">Tumbuhan</string>
+</resources>

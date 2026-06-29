@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_hewan"
+        android:icon="@drawable/ic_paw"
+        android:title="@string/hewan"/>
+    <item
+        android:id="@+id/nav_tumbuhan"
+        android:icon="@drawable/ic_plant"
+        android:title="@string/tumbuhan"/>
+    <item
+        android:id="@+id/nav_account"
+        android:icon="@drawable/ic_account"
+        android:title="@string/profil"/>
+</menu>
